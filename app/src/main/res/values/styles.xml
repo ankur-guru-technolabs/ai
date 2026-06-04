@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.NoTitleBar">
+        <item name="android:windowBackground">#212121</item>
+        <item name="android:statusBarColor">#212121</item>
+        <item name="android:navigationBarColor">#212121</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:colorPrimary">#10a37f</item>
+        <item name="android:colorPrimaryDark">#212121</item>
+        <item name="android:colorAccent">#10a37f</item>
+    </style>
+    <style name="SplashTheme" parent="android:Theme.Material.NoTitleBar.Fullscreen">
+        <item name="android:windowBackground">#212121</item>
+        <item name="android:statusBarColor">#212121</item>
+        <item name="android:navigationBarColor">#212121</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

@@ -1,0 +1,4 @@
+-keep class com.arenaai.chat.** { *; }
+-keepclassmembers class * extends android.webkit.WebViewClient { public *; }
+-keepclassmembers class * extends android.webkit.WebChromeClient { public *; }
+-dontwarn android.webkit.**
